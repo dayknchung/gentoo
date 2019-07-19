@@ -4,7 +4,7 @@
 	<!-- maintainer-needed -->
 	<longdescription>
 		Visitors is a very fast web log analyzer for Linux, Windows, and other
-		Unix-like operating systems. It takes as input a web server log file, and
+		Unix-like operating systems. It takes as input a web server log files, and
 		outputs statistics in form of different types of reports.
 	</longdescription>
 </pkgmetadata>
